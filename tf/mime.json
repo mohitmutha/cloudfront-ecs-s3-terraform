@@ -1,0 +1,7 @@
+{
+    ".html": "text/html",
+    ".js": "application/javascript",
+    ".svg": "image/svg+xml",
+    ".css": "text/css"
+
+}
