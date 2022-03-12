@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "cf-s3-ecs-demo-bucket" {
-  bucket = "cf-s3-ecs-demo-bucket"
+  bucket = "cf-s3-ecs-demo-bucket-mm"
 
   tags = {
     Name        = "cf-s3-ecs-demo-bucket"
